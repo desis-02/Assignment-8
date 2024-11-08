@@ -1,1 +1,1 @@
-# Assignment-8
+This project aims to analyze and visualize data from two datasets: the Iris dataset and a loan dataset. Using Python and Matplotlib, it generates various charts to explore patterns and insights within each dataset. The Iris dataset visualizations highlight differences between species based on flower dimensions, while the loan dataset visualizations provide insights into loan amounts, customer income, and loan status.
